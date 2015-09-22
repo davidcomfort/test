@@ -1,1 +1,3 @@
-R is open-source software
+R is software.
+R is free software.
+
